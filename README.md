@@ -22,3 +22,10 @@ aiml-foundations/
 │   ├── probability.md
 │   ├── linear_algebra.md
 │   └── calculus.md
+
+
+# Teacher
+Shradha Khapra
+
+# Student
+Amrit Raj
